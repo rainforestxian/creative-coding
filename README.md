@@ -12,3 +12,11 @@ The size of canvas is 600x600.
 The steps of the painting are as below:
   1.Draw several horizontal and vertical lines which are random but limited in recording ranges.
   2.Paint the rectangles which are created by the lines above in diffrent colors. 
+
+week4_schoolwork:
+The size of canvas is decided by the size of the picture we process.
+The steps of the painting are as below:
+  1.We choose one picture(jpg/png...) and import it. 
+  2.When we press our mouse there are a number of lines spread out at random angle from where we press.
+  3.Where these lines travel through will be painted the color which is based on the picture we import.
+  4.While these lines have travelled long enough the picture will finally be displayed thoroughly.
