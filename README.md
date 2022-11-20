@@ -20,3 +20,7 @@ The steps of the painting are as below:
   2.When we press our mouse there are a number of lines spread out at random angle from where we press.
   3.Where these lines travel through will be painted the color which is based on the picture we import.
   4.While these lines have travelled long enough the picture will finally be displayed thoroughly.
+
+week6_schoolwork:
+There is one original flower growing with time going. When the flowers grows enough, they breed and comes second generation.
+However, due to the pressure of the limited fertility of soil, when the number of flowers in a limited space are over a certern number,their life expectancy will be greatly reduced.
