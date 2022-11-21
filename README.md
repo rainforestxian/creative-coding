@@ -24,3 +24,6 @@ The steps of the painting are as below:
 week6_schoolwork:
 There is one original flower growing with time going. When the flowers grows enough, they breed and comes second generation.
 However, due to the pressure of the limited fertility of soil, when the number of flowers in a limited space are over a certern number,their life expectancy will be greatly reduced.
+
+week6_schoolwork:
+Once you click your mouse, there will be a river flowing and be divided into 1 trunk stream and 2 tributary. Besides, the width and color of the stream will also be change depending on the flow.
